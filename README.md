@@ -159,14 +159,10 @@ commit your fix, and then send a [pull request](https://help.github.com/articles
 ## Acknowledgements
 
 Huge credits for the initial implementation go to Jiří "FireTight"
-Szabó, who wrote it as part of his Bachelor's degree.  If you are
-lucky enough to understand Czech, you can read his thesis on ly2video
-in the `doc/thesis/` subdirectory, or
-[online](http://is.muni.cz/th/359741/fi_b/text_prace.pdf) :-) Work on
-an English translation has begun and is being tracked in
-[issue 15](https://github.com/aspiers/ly2video/issues/15) but is
-unlikely to be finished any time soon unless someone else volunteers
-to help out.
+Szabó, who wrote it as part of his Bachelor's degree.  You can read
+his thesis on ly2video in the `doc/thesis/` subdirectory, or
+[online](http://is.muni.cz/th/359741/fi_b/text_prace.pdf), although
+it's in Czech so you may need to use a translation service.
 
 Very big thanks also to Jan Nieuwenhuizen not only for co-inventing
 LilyPond in the first place, but also for helping me implement the
