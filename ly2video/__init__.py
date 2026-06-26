@@ -1,6 +1,6 @@
-import pkg_resources
+from importlib.metadata import PackageNotFoundError, version
 
 try:
-    __version__ = pkg_resources.get_distribution(__name__).version
-except:
+    __version__ = version(__name__)
+except PackageNotFoundError:
     __version__ = 'unknown'
